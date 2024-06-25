@@ -30,7 +30,7 @@ sudo mount -o loop disk.img fs-root/
 ### Commands
 
 
-````
+```
 ./je2fs disk.img mkdir </abs/path/to/dirname>
 ```
 
