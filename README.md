@@ -1,6 +1,6 @@
 # EXT2 File System
 
-## How To Build
+## How To Build
 
 Run `make all` in the project directory.
 
